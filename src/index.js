@@ -1,2 +1,2 @@
-import './styles.scss';
+import './styles.css';
 import './js/localStorage.js';
